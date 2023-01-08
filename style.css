@@ -1,0 +1,61 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0%;
+    color: #282955 ;
+    position: relative;
+}
+main{
+    position: relative;
+}
+footer{
+    background-color: #f7ccc6;
+    padding: 2%;
+}
+header{
+    background-color: #f7ccc6;
+    padding: 2%;
+    position: relative;
+}
+header p {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+}
+header p img{
+    width: 25%;
+    height: 40%;
+}
+
+.txt{
+    font-size: 24px;
+    text-align: center;
+    margin-left: 10%;
+    width: 80%;
+    border: 4px dotted #f7ccc6;
+    padding: 3%;
+    border-radius: 15%;
+    
+}
+div{
+    width: 80%;
+    margin-left: 10%;
+  
+    
+}
+
+.row a{
+    width: 100%;
+    display: inline-block;
+}
+.row a p{
+ float: left;
+ width: 45%;
+ font-size: 24px;
+ font-weight: bold;
+    font-style: italic;
+}
+.row a img{
+    float: right;
+    width: 40%;
+}
