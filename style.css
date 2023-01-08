@@ -48,6 +48,9 @@ div{
     width: 100%;
     display: inline-block;
 }
+.row{
+    margin-top:3%;
+}
 .row a p{
  float: left;
  width: 45%;
